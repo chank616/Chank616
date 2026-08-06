@@ -2,4 +2,4 @@
 
 🔍 Reverse Engineering · ⚙️ Automation
 
-> Automating the boring stuff, helping everyone have time for what and who they love.
+> Automating the boring stuff, helping everyone have time for who and what they love.
