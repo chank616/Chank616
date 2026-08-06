@@ -1,4 +1,4 @@
-🎓 CS Master's Student · ✍️ Calligraphy enthusiast
+🎓 CS Master's Student · ✍️ Calligraphy hobbyist
 
 🔍 Reverse Engineering · ⚙️ Automation
 
